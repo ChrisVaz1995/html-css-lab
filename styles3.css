@@ -1,0 +1,36 @@
+.blue-box {
+    height: 70%;
+    width: 10%;
+    background-color: rgb(45, 45, 218);
+    margin-left: 5%;
+} 
+
+.main-header {
+    background-color: grey;
+    width: 75%;
+    height: 20vh;
+}
+
+.lightblue-box {
+    background-color: lightskyblue;
+    width: 75%;
+    height: 20vh;
+}
+
+.cyan-box {
+    background-color: hsl(165, 67%, 74%);
+    width: 75%;
+    height: 20vh;
+}
+
+.olive-box {
+    background-color: rgb(196, 196, 83);
+    width: 75%;
+    height: 20vh;
+}
+
+.yellow-box {
+    background-color: yellow;
+    width: 75%;
+    height: 20vh;
+}
